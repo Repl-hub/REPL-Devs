@@ -33,6 +33,7 @@ const suman = "https://i.ibb.co/pnrj583/Suman-Ojha.png";
 const embrahim = "https://i.ibb.co/SQctM8b/ebrahim.jpg";
 const aman = "https://i.ibb.co/YtpRrXh/aman-Sharma.jpg";
 
+
 const defaultOption1 = {
   loop: true,
   autoplay: true,
