@@ -56,7 +56,7 @@ const Navbar = ({ logo }) => {
               style={{ transition: "all 0.5s ease 0.2s" }}
             >
               <NavLink exact activeClassName="active" to="/hackathon">
-                <IconButton>Hackthon</IconButton>
+                <IconButton>Hackathon</IconButton>
               </NavLink>
             </li>
 
