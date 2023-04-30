@@ -55,8 +55,11 @@ const Navbar = ({ logo }) => {
               onClick={handelClick}
               style={{ transition: "all 0.5s ease 0.2s" }}
             >
-              <NavLink exact activeClassName="active" to="/hackathon">
+              {/* <NavLink exact activeClassName="active" to="/hackathon">
                 <IconButton>Hackathon</IconButton>
+              </NavLink> */}
+              <NavLink exact activeClassName="active" to="/feedback">
+                <IconButton>FeedBack</IconButton>
               </NavLink>
             </li>
 
@@ -68,6 +71,16 @@ const Navbar = ({ logo }) => {
                 <IconButton>Contact</IconButton>
               </NavLink>
             </li>
+
+            {/* <li
+              onClick={handelClick}
+              style={{ transition: "all 0.5s ease 0.2s" }}
+            >
+              <NavLink exact activeClassName="active" to="/ticket">
+                <IconButton>Ticket</IconButton>
+              </NavLink>
+            </li> */}
+
           </ul>
         </nav>
       </div>

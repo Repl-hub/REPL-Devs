@@ -12,11 +12,13 @@ import About from "./About.jsx";
 import Project from "./Project.jsx";
 import Contact from "./Contact.jsx";
 import Comming from "./Comming";
+import FeedBack from './FeedBack';
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import Lottie from "react-lottie";
 import * as cycle from "./json/cycle-animation.json";
 import * as success from "./json/success.json";
 import Hackathron from "./Hackathron";
+// import Ticket from "./Ticket.jsx";
 
 const logo = "https://i.ibb.co/s6NCmyM/REPL.png";
 const bird1 = "https://i.ibb.co/c1ncXZf/bird1.png";
@@ -121,6 +123,8 @@ function App() {
               <Route exact path="/contact" component={Contact} />
               <Route exact path="/project" component={Project} />
               <Route exact path="/about" component={About} />
+              {/* <Route exact path="/ticket" component={Ticket} /> */}
+              <Route exact path="/feedback" component={FeedBack} />
               <Route exact path="/">
                 <Home
                   bird1={bird1}
