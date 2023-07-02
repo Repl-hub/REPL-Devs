@@ -64,6 +64,11 @@ const Navbar = ({ logo }) => {
               <NavLink exact activeClassName="active" to="/membership_form">
                 <IconButton>Membership</IconButton>
               </NavLink>
+            </li>
+            <li
+              onClick={handelClick}
+              style={{ transition: "all 0.5s ease 0.2s" }}
+            >
               <NavLink exact activeClassName="active" to="/feedback">
                 <IconButton>FeedBack</IconButton>
               </NavLink>
