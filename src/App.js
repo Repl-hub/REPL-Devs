@@ -119,7 +119,7 @@ function App() {
             <Navbar logo={logo} />
             <Switch>
               <Route exact path="/comming" component={Comming} />
-              <Route exact path="/hackathon" component={Hackathron} />
+              <Route exact path="/membership_form" component={Hackathron} />
               <Route exact path="/contact" component={Contact} />
               <Route exact path="/project" component={Project} />
               <Route exact path="/about" component={About} />

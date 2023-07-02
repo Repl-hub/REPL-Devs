@@ -11,13 +11,12 @@ const Navbar = ({ logo }) => {
   return (
     <>
       <p className="m-0 px-0 py-1 bg-warning text-dark text-center">
-        <span className="text-primary fw-bolder">CSS Battle</span> &nbsp;
         <NavLink
           exact
-          to="/hackathon"
+          to="/membership_form"
           className="fst-italic text-danger text-decoration-none text-capitalize fw-bold"
         >
-          Feedback From &nbsp;
+          Membership From &nbsp;
         </NavLink>
       </p>
       <div className="col-md-12 col-12">
@@ -62,9 +61,9 @@ const Navbar = ({ logo }) => {
               onClick={handelClick}
               style={{ transition: "all 0.5s ease 0.2s" }}
             >
-              {/* <NavLink exact activeClassName="active" to="/hackathon">
-                <IconButton>Hackathon</IconButton>
-              </NavLink> */}
+              <NavLink exact activeClassName="active" to="/membership_form">
+                <IconButton>Membership</IconButton>
+              </NavLink>
               <NavLink exact activeClassName="active" to="/feedback">
                 <IconButton>FeedBack</IconButton>
               </NavLink>

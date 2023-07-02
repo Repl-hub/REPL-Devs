@@ -22,7 +22,7 @@ function Footer() {
 
                     <div className="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3">
                         <h5 className="text-uppercase mb-4 font-weight-bold" style={{ color: "#ddd" }}>Links</h5>
-                        <p><Link to="/hackathon" className="text-white" style={{ textDecoration: "none" }} title="Compititive Programming Community">REPL CSS Battle</Link></p>
+                        <p><Link to="/membership_form" className="text-white" style={{ textDecoration: "none" }} title="Compititive Programming Community">REPL Membership Form</Link></p>
                         <p><a href="https://repl-board.web.app/" className="text-white" style={{ textDecoration: "none" }} title="Web Development Community">Dashboard System</a></p>
                         <p><Link to="/comming" className="text-white" style={{ textDecoration: "none" }} title="Entrance Exam Website">Examination Portal</Link></p>
                     </div>
