@@ -11,7 +11,14 @@ const Navbar = ({ logo }) => {
   return (
     <>
       <p className="m-0 px-0 py-1 bg-warning text-dark text-center">
-        To Register the <span className="text-primary fw-bolder">CSS Battle</span> &nbsp;<NavLink exact to="/hackathon" className="fst-italic text-danger text-decoration-none text-capitalize fw-bold"> click here! &nbsp;</NavLink>
+        <span className="text-primary fw-bolder">CSS Battle</span> &nbsp;
+        <NavLink
+          exact
+          to="/hackathon"
+          className="fst-italic text-danger text-decoration-none text-capitalize fw-bold"
+        >
+          Feedback From &nbsp;
+        </NavLink>
       </p>
       <div className="col-md-12 col-12">
         <nav className="navbar navbar-expand-lg navbar-light mt-2">
@@ -50,7 +57,7 @@ const Navbar = ({ logo }) => {
               <NavLink exact activeClassName="active" to="/project">
                 <IconButton>Explore</IconButton>
               </NavLink>
-            </li> 
+            </li>
             <li
               onClick={handelClick}
               style={{ transition: "all 0.5s ease 0.2s" }}
