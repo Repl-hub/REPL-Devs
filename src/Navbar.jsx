@@ -19,7 +19,7 @@ const Navbar = ({ logo }) => {
           Membership From &nbsp;
         </NavLink>
       </p>
-      <div className="col-md-12 col-12">
+      <div className="col-md-11 col-12">
         <nav className="navbar navbar-expand-lg navbar-light mt-2">
           <div className="hamburger" onClick={handelClick}>
             <div className={state.clicked ? "line open" : "line"}></div>
