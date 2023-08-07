@@ -1,0 +1,244 @@
+{
+    "FOUNDERS" :[
+    {
+        "Name": "Arghadeep Mallick",
+        "Post": "Founder Lead",
+        "PictureLink": "https://i.ibb.co/gZdM7cq/IMG-20230501-050615.png",
+        "PortfolioLink": "https://www.arghadeep.in/"
+    },
+    {
+        "Name": "Suman Ojha",
+        "Post": "Founder Secretary",
+        "PictureLink": null,
+        "PortfolioLink": null
+    },
+    {
+        "Name": "Rupam Dey",
+        "Post": "Founder Marketing Head",
+        "PictureLink": null,
+        "PortfolioLink": null
+    }
+],
+"ALUMINI" :
+[
+    {
+        "Name": "Shuvajit Maity",
+        "Post": "",
+        "PictureLink": "https://i.ibb.co/BK80M3M/shuvajit-maity-pic.jpg",
+        "PortfolioLink": null
+    },
+    {
+        "Name": "Aritra Dian",
+        "Post": null,
+        "PictureLink": "https://i.ibb.co/ygVx86V/Whats-App-Image-2023-07-25-at-5-55-19-PM.jpg",
+        "PortfolioLink": null
+    },
+    {
+        "Name": "Aman Sharma",
+        "Post": null,
+        "PictureLink": "https://i.ibb.co/BgRYRgH/20230527-101418.jpg",
+        "PortfolioLink": "http://amansharma.in/"
+    },
+    {
+        "Name": "Sudhanshu Kumar",
+        "Post": null,
+        "PictureLink": null,
+        "PortfolioLink": null
+    },
+    {
+        "Name": "Md. Ebrahim",
+        "Post": null,
+        "PictureLink": null,
+        "PortfolioLink": null
+    }
+],
+"CURRENT_LEAD":
+[
+    {
+        "Name": "Ilham Ansari ",
+        "Post": "Lead",
+        "PictureLink": "https://i.ibb.co/C7cQfSd/DSC-0520-1.jpg",
+        "PortfolioLink": "https://ilhamansari.github.io/Port/"
+    },
+    {
+        "Name": "Nirvik Ghosh ",
+        "Post": "Secretary & Technical Lead",
+        "PictureLink": "https://i.ibb.co/86rV7ZJ/photo-2023-03-21-22-14-16.jpg",
+        "PortfolioLink": "https://nirvik09.pythonanywhere.com/"
+    },
+    {
+        "Name": "Astha Samaddar  ",
+        "Post": "Supervisor",
+        "PictureLink": "https://i.ibb.co/QpPwhSM/DSC-0489.jpg",
+        "PortfolioLink": "https://asttttha.github.io/Portfolio./"
+    }
+],
+"SUB_LEADS": 
+[
+    {
+        "Name": "Diwakar Pandit ",
+        "Post": "Event and Technical Advisor",
+        "PictureLink": "https://i.ibb.co/PCn9vj7/DSC-0559.jpg",
+        "PortfolioLink": null
+    },
+    {
+        "Name": "SUSOVAN DA",
+        "Post": "Student Convener",
+        "PictureLink": null,
+        "PortfolioLink": null
+    }
+],
+"EVENT_COORDINATOR":
+[
+    {
+        "Name": "Ritam Mishra  ",
+        "Post": "Event Co-ordinator Head",
+        "PictureLink": "https://i.ibb.co/K0GbZVM/My-project.png",
+        "PortfolioLink": "https://ritam-mishra.github.io/my-portfolio/"
+    },
+    {
+        "Name": "Tilak Ghosh ",
+        "Post": "Event Co-ordinator Co-head",
+        "PictureLink": "https://i.ibb.co/gSzTxT6/IMG-20230714-235137.jpg",
+        "PortfolioLink": "https://github.com/Tilak-G/Portfolio-Website"
+    },
+    {
+        "Name": "Indraneel Sarkar ",
+        "Post": "Event Co-ordinator Assistant",
+        "PictureLink": "https://i.ibb.co/VpdJcDN/Picsart-23-07-14-22-24-37-881.jpg",
+        "PortfolioLink": "infoport3.wordpress.com"
+    },
+    {
+        "Name": "Ritrabata  ",
+        "Post": "Event Co-ordinator Assistant",
+        "PictureLink": "https://i.ibb.co/X2Gvzpd/IMG-20220921-WA0012.jpg",
+        "PortfolioLink": "https://ritabrata-1912.github.io/Portfolio/"
+    },
+    {
+        "Name": "Joy Sarkar ",
+        "Post": "Event Co-ordinator Assistant",
+        "PictureLink": "https://i.ibb.co/YBcw9gX/IMG-20230614-230801.png",
+        "PortfolioLink": "https://imaginative-cactus-2b41f8.netlify.app"
+    }
+],
+"DESIGN_TEAM" :
+[
+    {
+        "Name": "Shreyo Paul  ",
+        "Post": "Design Head",
+        "PictureLink": "https://i.ibb.co/BgBjYPX/IMG-20230715-184726.jpg",
+        "PortfolioLink": "https://portfolio-g1lzmrlw0-shreyopaul.vercel.app/"
+    },
+    {
+        "Name": "Pratyusha Sinha  ",
+        "Post": "Design Co-head",
+        "PictureLink": "https://i.ibb.co/W3khWfD/IMG-20230714-WA0065.jpg",
+        "PortfolioLink": "https://pratyusa2001.github.io/PRATYUSA_PORTFOLIO/"
+    },
+    {
+        "Name": "Riya Kumari Shah  ",
+        "Post": "Design Assistant",
+        "PictureLink": "https://i.ibb.co/bbpPRp8/img20210801-19330104.jpg",
+        "PortfolioLink": "https://restointernational.my.canva.site/personal-portfolio"
+    }
+],
+"PUBLIC_RELATION": [
+    {
+        "Name": "Debaditya Banerjee  ",
+        "Post": "Public Relation Head",
+        "PictureLink": null,
+        "PortfolioLink": null
+    },
+    {
+        "Name": "Priti Gupta ",
+        "Post": "Public Relation Co-head",
+        "PictureLink": "https://i.ibb.co/HD7QS77/Picsart-23-06-18-22-37-36-221.jpg",
+        "PortfolioLink": "https://pritigupta-portfolio.netlify.app/"
+    },
+    {
+        "Name": "Dilip Sarkar",
+        "Post": "Public Relation Co-head",
+        "PictureLink": "https://i.ibb.co/0VL807J/DSC-0575.jpg",
+        "PortfolioLink": null
+    },
+    {
+        "Name": "Joyjit Das ",
+        "Post": "Public Relation Assistant",
+        "PictureLink": "https://i.ibb.co/7VBZqDb/Picsart-23-07-02-13-05-52-322.png",
+        "PortfolioLink": "https://joyjitdas3918.github.io/portfolio/index.html"
+    }
+],
+"CONTENT":[
+    {
+        "Name": "Avik Mukherjee ",
+        "Post": "Content Head",
+        "PictureLink": "https://i.ibb.co/GCXZ3TM/hero-Image-0c3a75d5b86d02db81d5.jpg",
+        "PortfolioLink": "https://avikportfolio.vercel.app/"
+    },
+    {
+        "Name": "Suman Tiwary ",
+        "Post": "Content Co-head",
+        "PictureLink": "https://i.ibb.co/0VjMkbS/DSC-0503.jpg",
+        "PortfolioLink": "http://sumantewary.xyz"
+    },
+    {
+        "Name": "Subha Sadhu ",
+        "Post": "Content Assistant",
+        "PictureLink": "https://i.ibb.co/M6J0yq2/9c4cf70b-cc51-4212-8264-fbc7ac2636c1.jpg",
+        "PortfolioLink": "https://subha-5.github.io/cv/"
+    }
+],
+"SOCIALMEDIA_CO_ORDINATOR":
+[
+    {
+        "Name": "Ilham Ansari ",
+        "Post": "Social Media Co-ordinator",
+        "PictureLink": "https://i.ibb.co/C7cQfSd/DSC-0520-1.jpg",
+        "PortfolioLink": "https://ilhamansari.github.io/Port/"
+    },
+    {
+        "Name": "Nirvik Ghosh ",
+        "Post": "Social Media Co-ordinator",
+        "PictureLink": "https://i.ibb.co/86rV7ZJ/photo-2023-03-21-22-14-16.jpg",
+        "PortfolioLink": "https://nirvik09.pythonanywhere.com/"
+    },
+    {
+        "Name": "Astha Samaddar  ",
+        "Post": "Social Media Co-ordinator",
+        "PictureLink": "https://i.ibb.co/QpPwhSM/DSC-0489.jpg",
+        "PortfolioLink": "https://asttttha.github.io/Portfolio./"
+    }
+],
+"MARKETING_TEAM": 
+[
+    {
+        "Name": "Diwakar Pandit ",
+        "Post": "Marketing Head",
+        "PictureLink": "https://i.ibb.co/PCn9vj7/DSC-0559.jpg",
+        "PortfolioLink": null
+    }
+],
+"TECHNICAL_TEAM":
+[
+    {
+        "Name": "Nirvik Ghosh ",
+        "PictureLink": "https://i.ibb.co/86rV7ZJ/photo-2023-03-21-22-14-16.jpg",
+        "PortfolioLink": "https://nirvik09.pythonanywhere.com/"
+    },
+    {
+        "Name": "Shreyo Paul  ",
+        "PictureLink": "https://i.ibb.co/BgBjYPX/IMG-20230715-184726.jpg",
+        "PortfolioLink": "https://portfolio-g1lzmrlw0-shreyopaul.vercel.app/"
+    },
+    {
+        "Name": "Subha Sadhu ",
+        "PictureLink": "https://i.ibb.co/M6J0yq2/9c4cf70b-cc51-4212-8264-fbc7ac2636c1.jpg",
+        "PortfolioLink": "https://subha-5.github.io/cv/"
+    },
+    {
+        "Name": "Avik Mukherjee ",
+        "PictureLink": "https://i.ibb.co/GCXZ3TM/hero-Image-0c3a75d5b86d02db81d5.jpg",
+        "PortfolioLink": "https://avikportfolio.vercel.app/"
+    }
+]
+}
